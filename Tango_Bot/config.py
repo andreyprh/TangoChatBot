@@ -1,2 +1,7 @@
-API_TOKEN = "7249449634:AAEF_A4rSA-RJpZVA7H9z_obpQpsdEf18WE"
-UNSPLASH_ACCESS_KEY = "O8NS0MnhJhytEonPCDJpSJ8YKrhai5akYe9yU3Gi0-Y"
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+API_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+UNSPLASH_ACCESS_KEY = os.getenv("UNSPLASH_ACCESS_KEY")

@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36aac660-b742-4d00-8e21-d4ac561e9ff8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TangoBot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tango_Bot/Description" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tango_Bot/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tango_Bot/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tango_Bot/keyboards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tango_Bot/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tango_Bot/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tango_Bot/tango_bot.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tango_Bot/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tango_Bot/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tango_Bot/config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
